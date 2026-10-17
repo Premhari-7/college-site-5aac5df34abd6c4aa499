@@ -5,6 +5,6 @@
     { "name": "Computer Lab 1", "opens": "09:00", "closes": "11:00" },
     { "name": "Physics Lab", "opens": "11:30", "closes": "13:00" },
     { "name": "Chemistry Lab", "opens": "14:00", "closes": "16:00" },
-    { "name": "Update", "opens": "16:00", "closes": "17:00" }
+    { "name": "Update 5aac5df34abd6c4aa499", "opens": "16:30", "closes": "17:30" }
   ]
 }
